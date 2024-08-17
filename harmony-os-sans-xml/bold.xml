@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<Fonts>
+<Font>
+  <!-- ****************** Font(0) ****************** -->
+
+  <Header
+    Ascender="928"
+    Descender="-244"
+    TypoAscender="1056"
+    TypoDescender="-271"
+    WinAscender="1056"
+    WinDescender="271"
+    AverageCharWidth="986"
+    Codepage1="00040001"
+    Codepage2="00000000" />
+
+  <Name>
+
+    <!-- Copyright -->
+    <T n="1,0,0000,0">Copyright 2021 Huawei Device Co., Ltd. All Rights Reserved.</T>
+    <T n="3,1,0409,0">Copyright 2021 Huawei Device Co., Ltd. All Rights Reserved.</T>
+
+    <!-- Family -->
+    <T n="1,0,0000,1">HarmonyOS Sans SC</T>
+    <T n="1,25,0021,1">HarmonyOS Sans SC</T>
+    <T n="3,1,0409,1">HarmonyOS Sans SC</T>
+    <T n="3,1,0804,1">HarmonyOS Sans SC</T>
+
+    <!-- Subfamily -->
+    <T n="1,0,0000,2">Bold</T>
+    <T n="1,25,0021,2">Bold</T>
+    <T n="3,1,0409,2">Bold</T>
+    <T n="3,1,0804,2">Bold</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="1,0,0000,3">HarmonyOS Sans SC Bold Version 1.0</T>
+    <T n="3,1,0409,3">HarmonyOS Sans SC Bold Version 1.0</T>
+
+    <!-- FullName -->
+    <T n="1,0,0000,4">HarmonyOS Sans SC Bold</T>
+    <T n="1,25,0021,4">HarmonyOS Sans SC Bold</T>
+    <T n="3,1,0409,4">HarmonyOS Sans SC Bold</T>
+    <T n="3,1,0804,4">HarmonyOS Sans SC Bold</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">Version 1.0</T>
+    <T n="3,1,0409,5">Version 1.0</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">HarmonyOS_Sans_SC_Bold</T>
+    <T n="3,1,0409,6">HarmonyOS_Sans_SC_Bold</T>
+
+    <!-- Manufacturer -->
+    <T n="1,0,0000,8">Hanyi Fonts</T>
+    <T n="3,1,0409,8">Hanyi Fonts</T>
+
+    <!-- Designer -->
+    <T n="1,0,0000,9">Huawei Device Co., Ltd &amp; Hanyi Fonts</T>
+    <T n="3,1,0409,9">Huawei Device Co., Ltd &amp; Hanyi Fonts</T>
+
+    <!-- unknown256 -->
+    <T n="3,1,0409,256">Clock Tabular</T>
+
+    <!-- unknown257 -->
+    <T n="3,1,0409,257">Clock Proportional</T>
+
+    <!-- unknown258 -->
+    <T n="3,1,0409,258">Calculator Operators</T>
+
+  </Name>
+</Font>
+</Fonts>
