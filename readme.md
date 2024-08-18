@@ -32,30 +32,30 @@ UniteTTC.exe msyh.ttc
 
 或将 `TTC` 字体文件逐个拖到 `UniteTTC.exe` 上，每次操作会把对应的字体拆分为多个 `XXX.TTF` 文件。
 
-对于 `msyh.ttc`，将会拆分为两个 `TTF` 文件，分别为 `msyh_001.TTF`（微软雅黑）和 `msyh_002.TTF`（Microsoft Yahei UI）。
+对于 `msyh.ttc`，将会拆分为两个 `TTF` 文件，分别为 `msyh001.TTF`（微软雅黑）和 `msyh002.TTF`（Microsoft Yahei UI）。
 
 ### 二、生成字体 XML
 
 取 `新字体` 的其中一个 `TTF` 文件（**后续还需要用到**），拖到 `ttfname3.exe` 上，生成 `新字体.xml`。
 
-将微软雅黑的两个 TTF 文件拖到 `ttfname3.exe` 上，生成 `msyh_001.xml` 和 `msyh_002.xml`。
+将微软雅黑的两个 TTF 文件拖到 `ttfname3.exe` 上，生成 `msyh001.xml` 和 `msyh002.xml`。
 
 ### 三、替换微软雅黑字体 XML 中的 Header 标签内容
 
-使用文本编辑器打开 `新字体.xml` `msyh_001.xml` `msyh_002.xml`，复制 `新字体.xml` 的 `Header` 标签部分，粘贴到 `msyh_001.xml` 和 `msyh_002.xml` 中的 `Header` 标签部分进行替换。
+使用文本编辑器打开 `新字体.xml` `msyh001.xml` `msyh002.xml`，复制 `新字体.xml` 的 `Header` 标签部分，粘贴到 `msyh001.xml` 和 `msyh002.xml` 中的 `Header` 标签部分进行替换。
 
 ### 四、生成修改字体信息后的新字体文件
 
-将 `msyh_001.xml` 和提取的 `新字体.TTF` 同时选中然后拖到 `ttfname3.exe` 上，生成 `msyh_001_mod.TTF`。
+将 `msyh001.xml` 和提取的 `新字体.TTF` 同时选中然后拖到 `ttfname3.exe` 上，生成 `msyh001_mod.TTF`。
 
-将 `msyh_002.xml` 和提取的 `新字体.TTF` 同时选中然后拖到 `ttfname3.exe` 上，生成 `msyh_002_mod.TTF`。
+将 `msyh002.xml` 和提取的 `新字体.TTF` 同时选中然后拖到 `ttfname3.exe` 上，生成 `msyh002_mod.TTF`。
 
 ### 五、合并字体 TTF 为 TTC
 
-执行以下命令，将 `msyh_001_mod.TTF` 和 `msyh_002_mod.TTF` 合并为 `msyh_new.ttc`：
+执行以下命令，将 `msyh001_mod.TTF` 和 `msyh002_mod.TTF` 合并为 `msyh_new.ttc`：
 
 ```text
-UniteTTC.exe msyh_new.ttc msyh_001_mod.TTF msyh_002_mod.TTF
+UniteTTC.exe msyh_new.ttc msyh001_mod.TTF msyh002_mod.TTF
 ```
 
 ### 六、替换系统字体
@@ -80,4 +80,4 @@ xcopy D:\fonts C:\Windows\Fonts
 
 根据提示，输入字母 `A` 确认用新的字体文件覆盖系统中对应的字体文件。
 
-执行 `exit` 命令，或关闭“命令提示符”窗口，然后重启系统。
+执行 `exit` 命令，或关闭“命令提示符”窗口，然后选择“继续”以重启系统。
