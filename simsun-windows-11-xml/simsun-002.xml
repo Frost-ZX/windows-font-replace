@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<Fonts>
+<Font>
+  <!-- ****************** Font(0) ****************** -->
+
+  <Header
+    Ascender="220"
+    Descender="-36"
+    TypoAscender="220"
+    TypoDescender="-36"
+    WinAscender="220"
+    WinDescender="36"
+    AverageCharWidth="128"
+    Codepage1="00040001"
+    Codepage2="00000000" />
+
+  <Name>
+
+    <!-- Copyright -->
+    <T n="1,0,0000,0">© Copyright ZHONGYI Electronic Co. 2001, 2020, 2022</T>
+    <T n="3,1,0409,0">© Copyright ZHONGYI Electronic Co. 2001, 2020, 2022</T>
+    <T n="3,1,0804,0">© Copyright ZHONGYI Electronic Co. 2001, 2020, 2022</T>
+    <T n="3,1,1004,0">© Copyright ZHONGYI Electronic Co. 2001, 2020, 2022</T>
+
+    <!-- Family -->
+    <T n="1,0,0000,1">NSimSun</T>
+    <T n="3,1,0409,1">NSimSun</T>
+    <T n="3,1,0804,1">新宋体</T>
+    <T n="3,1,1004,1">新宋体</T>
+
+    <!-- Subfamily -->
+    <T n="1,0,0000,2">Regular</T>
+    <T n="3,1,0409,2">Regular</T>
+    <T n="3,1,0804,2">常规</T>
+    <T n="3,1,1004,2">常规</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="1,0,0000,3">NSimSun</T>
+    <T n="3,1,0409,3">NSimSun</T>
+    <T n="3,1,0804,3">新宋体</T>
+    <T n="3,1,1004,3">新宋体</T>
+
+    <!-- FullName -->
+    <T n="1,0,0000,4">NSimSun</T>
+    <T n="3,1,0409,4">NSimSun</T>
+    <T n="3,1,0804,4">新宋体</T>
+    <T n="3,1,1004,4">新宋体</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">Version 5.21</T>
+    <T n="3,1,0409,5">Version 5.21</T>
+    <T n="3,1,0804,5">Version 5.21</T>
+    <T n="3,1,1004,5">Version 5.21</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">NSimSun</T>
+    <T n="3,1,0409,6">NSimSun</T>
+    <T n="3,1,0804,6">新宋体</T>
+    <T n="3,1,1004,6">新宋体</T>
+
+    <!-- Trademark -->
+    <T n="1,0,0000,7">Trademark of ZHONGYI Electronic Co., Beijing</T>
+    <T n="3,1,0409,7">Trademark of ZHONGYI Electronic Co., Beijing</T>
+    <T n="3,1,0804,7">Trademark of ZHONGYI Electronic Co., Beijing</T>
+    <T n="3,1,1004,7">Trademark of ZHONGYI Electronic Co., Beijing</T>
+
+    <!-- Manufacturer -->
+    <T n="3,1,0804,8">Beijing ZhongYi Electronics Co.</T>
+
+    <!-- Designer -->
+    <T n="3,1,0804,9">Beijing ZhongYi Electronics Co.</T>
+
+    <!-- VendorURL -->
+    <T n="3,1,0804,11">http://www.zhongyicts.com.cn</T>
+
+    <!-- DesignerURL -->
+    <T n="3,1,0804,12">http://www.zhongyicts.com.cn</T>
+
+    <!-- LicenseDescription -->
+    <T n="3,1,0409,13">Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.</T>
+
+    <!-- LicenseInfo -->
+    <T n="3,1,0409,14">http://www.microsoft.com/typography/fonts</T>
+
+  </Name>
+</Font>
+</Fonts>
